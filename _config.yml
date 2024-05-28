@@ -53,7 +53,7 @@ social-network-links:
   email: "imaginative_world@163.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: henrywch
+  github: henrywch/Iwfu
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
@@ -100,7 +100,7 @@ rss-description: Be updated with IWFU's latest posts
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "henrywch.github.io/Iwfu/"
+# url-pretty: "henrywch.github.io/Iwfu/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
