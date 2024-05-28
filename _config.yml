@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Works: "works.html"
     - Documents: "documents.html"
-  Author's home: "github.com/henrywch"
+  Author's home: "https://github.com/henrywch"
 
 ################
 # --- Logo --- #
