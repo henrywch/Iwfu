@@ -22,8 +22,8 @@ author: 空想花庭
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Works: "works.html"
-    - Documents: "documents.html"
+    - Works: "works"
+    - Documents: "documents"
   Author's home: "https://github.com/henrywch"
 
 ################
