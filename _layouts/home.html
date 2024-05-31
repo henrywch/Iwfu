@@ -73,7 +73,7 @@ layout: page
 
       <div class="post-entry">
         {% assign excerpt_length = site.excerpt_length | default: 50 %}
-        {{ post.excerpt | strip_html | split: "" | truncate: excerpt_length }}
+        {{ post.excerpt | strip_html | truncate: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | split: "" | size %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
           <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
