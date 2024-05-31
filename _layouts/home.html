@@ -72,7 +72,7 @@ layout: page
       {% endif %}
 
       <div class="post-entry">
-        {% assign excerpt_length = site.excerpt_length | default: 150 %}
+        {% assign excerpt_length = site.excerpt_length | default: 175 %}
         {{ post.excerpt | strip_html | truncate: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | split: "" | size %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
