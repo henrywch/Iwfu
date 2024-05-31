@@ -106,7 +106,6 @@ rss-description: Be updated with IWFU's latest posts
 title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
 number_of_word: "auto"
 
 # Whether or not to show an excerpt for every blog post in the feed page
