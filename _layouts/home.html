@@ -75,7 +75,7 @@ layout: page
         {% assign excerpt_length = site.excerpt_length | default: 50 %}
         {% assign post.excerpt = post.content | strip_html | split: "" | truncatewords: excerpt_length %}
         {{ post.excerpt | join: "" }}
-        {% assign excerpt_word_count = excerpt | split: "" | size %}
+        {% assign excerpt_word_count = post.excerpt | split: "" | size %}
         {% if post.content != excerpt or excerpt_word_count > excerpt_length %}
           <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
