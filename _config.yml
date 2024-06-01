@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Works: "works"
-    - Documents: "documents"
+    - Announcements: "announcements"
   Author's home: "https://github.com/henrywch"
 
 ################
