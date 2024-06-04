@@ -1,5 +1,5 @@
 # IWFU: Imaginative World of Fudan University
-WORKS and DOCUMENTS of Imaginative World of Fudan University. 
+WORKS and ANNOUNCEMENTS of Imaginative World of Fudan University. 
 <br/>
 
 # 复旦创协：空想世界创作者协会
